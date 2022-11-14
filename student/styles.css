@@ -8,13 +8,15 @@ th, tr {
 }
 
 .present {
-    color: gray;
+    color: black;
     font-style: italic;
+    background-color: rgb(173, 207, 230);
 }
 
 .absent {
     color: black;
     font-weight: bold;
+    background-color: rgb(147, 214, 153);
 }
 
 [v-cloak] {
